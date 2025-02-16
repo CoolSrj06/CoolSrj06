@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **srijanmaurya6602@gmail.com**
 
-- ⚡ Fun fact **I am NERD**
+- ⚡ Fun fact **I play play Valorant** daily for **minimum 2hrs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
