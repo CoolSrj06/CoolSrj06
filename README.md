@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVV-xrANQtTd0zdOcrav64DHX4iZqDJUGOQ&s">
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently working **MERN** technologies.
 
 - 👨‍💻 All of my projects are available at [https://coolsrj06.github.io/Portfolio/](https://coolsrj06.github.io/Portfolio/)
 
