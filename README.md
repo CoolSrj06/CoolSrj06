@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN Technologies and DSA in Java**
 
-- 📫 How to reach me **srijanmaurya6602@gmail.com**
+- 📫 Reach me at **srijanmaurya6602@gmail.com**
 
 - ⚡ Fun fact I play **Valorant** daily for minimum **2hrs.**
 
